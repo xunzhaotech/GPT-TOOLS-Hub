@@ -17,91 +17,91 @@
 
 ####  [Property Generators](https://dev.to/lissy93/super-useful-css-resources-1ba3#property-generators)
 
-### 1.. [Neumorphism](https://neumorphism.io/)
+- [Neumorphism](https://neumorphism.io/)
 
-### 2. [Shaddows Brumm](https://shadows.brumm.af/)
+- [Shaddows Brumm](https://shadows.brumm.af/)
 
-### 3. [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 
-### 4. [Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
+- [Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
 
-### 5. [Clothoid Corners](https://onotakehiko.dev/clothoid/)
+- [Clothoid Corners](https://onotakehiko.dev/clothoid/)
 
-### 6. [Glassmorphism](https://hype4.academy/tools/glassmorphism-generator)
+- [Glassmorphism](https://hype4.academy/tools/glassmorphism-generator)
 
-### 7. [Clipy](https://bennettfeely.com/clippy/)
+- [Clipy](https://bennettfeely.com/clippy/)
 
-### 8. [CSS Filters](https://www.cssfilters.co/)
+- [CSS Filters](https://www.cssfilters.co/)
 
-### 9. [Base64 Image](https://www.base64-image.de/)
+- [Base64 Image](https://www.base64-image.de/)
 
-### 10. [Quantity Queries](https://quantityqueries.com/)
+- [Quantity Queries](https://quantityqueries.com/)
 
-####[Animations](https://dev.to/lissy93/super-useful-css-resources-1ba3#animations)
-### 11. [Animista](https://animista.net/play)
+#### [Animations](https://dev.to/lissy93/super-useful-css-resources-1ba3#animations)
+- [Animista](https://animista.net/play)
 
-### 12. [Cubic-Bezier](https://cubic-bezier.com/)
+- [Cubic-Bezier](https://cubic-bezier.com/)
 
-### 13. [Keyframes](https://keyframes.app/animate)
+- [Keyframes](https://keyframes.app/animate)
 
-### 14. [Wait Animate](https://waitanimate.wstone.uk/)
+- [Wait Animate](https://waitanimate.wstone.uk/)
 
-### 15. [Transition.Style](https://www.transition.style/)
+- [Transition.Style](https://www.transition.style/)
 
 #### [Backgrounds](https://dev.to/lissy93/super-useful-css-resources-1ba3#backgrounds)
-### 16. [Hero Patterns](https://heropatterns.com/)
+- [Hero Patterns](https://heropatterns.com/)
 
-### 17. [Haikei](https://app.haikei.app/)
+- [Haikei](https://app.haikei.app/)
 
-### 18. [Pattern Generator](https://doodad.dev/pattern-generator/)
+- [Pattern Generator](https://doodad.dev/pattern-generator/)
 
-### 19. [CSS Pattern](https://css-pattern.com/)
+- [CSS Pattern](https://css-pattern.com/)
 
-### 20. [Patternizer](https://patternizer.com/)
+- [Patternizer](https://patternizer.com/)
 
-### 21. [Patternify](http://www.patternify.com/)
+- [Patternify](http://www.patternify.com/)
 
-### 22. [Animated BG](https://wweb.dev/resources/animated-css-background-generator/)
+- [Animated BG](https://wweb.dev/resources/animated-css-background-generator/)
 
-### 23. [Trianglify](https://trianglify.io/)
+- [Trianglify](https://trianglify.io/)
 
-### 24. [Animated Backgrounds](https://animatedbackgrounds.me/)
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
 
-### 25. [Magic Pattern CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
+- [Magic Pattern CSS Backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
 #### [Color Tools](https://dev.to/lissy93/super-useful-css-resources-1ba3#colors)
-### 26. [CSS Gradient](https://cssgradient.io/)
+- [CSS Gradient](https://cssgradient.io/)
 
-### 27. [Parametric Mixer](https://colormixer.web.app/)
+- [Parametric Mixer](https://colormixer.web.app/)
 
-### 28. [Palettte.](https://palettte.app/)
+- [Palettte.](https://palettte.app/)
 
-### 29. [Paletton](https://paletton.com/)
+- [Paletton](https://paletton.com/)
 
-### 30. [Grabient](https://www.grabient.com/)
+- [Grabient](https://www.grabient.com/)
 
-### 31. [Color Hunt](https://colorhunt.co/)
+- [Color Hunt](https://colorhunt.co/)
 
-### 32. [Easing Gradients](https://larsenwork.com/easing-gradients/#editor)
+- [Easing Gradients](https://larsenwork.com/easing-gradients/#editor)
 
-### 33. [Flat UI Colors](https://flatuicolors.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
 
-### 34. [Color Tools](https://colordesigner.io/tools)
+- [Color Tools](https://colordesigner.io/tools)
 
-### 35. [ColorPalettes.Earth](https://colorpalettes.earth/)
+- [ColorPalettes.Earth](https://colorpalettes.earth/)
 
 #### [Typography](https://dev.to/lissy93/super-useful-css-resources-1ba3#typography)
-### 36. [Font Joy](https://fontjoy.com/)
+- [Font Joy](https://fontjoy.com/)
 
-### 37. [Type set With Me](https://typesetwith.me/)
+- [Type set With Me](https://typesetwith.me/)
 
-### 38. [Type Scale](https://type-scale.com/)
+- [Type Scale](https://type-scale.com/)
 
-### 39. [Glyphter](https://glyphter.com/)
+- [Glyphter](https://glyphter.com/)
 
-### 40. [Font-Library](https://katydecorah.com/font-library)
+- [Font-Library](https://katydecorah.com/font-library)
 
-### 41. [Glitter](https://wh0.github.io/glitter/)
+- [Glitter](https://wh0.github.io/glitter/)
 
 #### [Loaders](https://dev.to/lissy93/super-useful-css-resources-1ba3#loaders)
 ### 42. [Spin Kit](https://tobiasahlin.com/spinkit/)
