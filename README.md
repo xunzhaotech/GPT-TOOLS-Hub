@@ -5,18 +5,17 @@
 收集优秀开源工具(工具集）
 #### CSS工具
 - [CSS Grid Creator](https://github.com/Weedshaker/cssGridLayout)
-
 - [CSS Gradient Generator](https://blankhtml.com/css-gradient/)
-
 - [CSS selectors gamified](https://flukeout.github.io/)
-
 - [CSS Layout News Newsletter](https://csslayout.news/)
-
 - [web.dev/](https://web.dev/learn/css/)
-
 - [Grid by Example](https://gridbyexample.com/)
-
 - [LABOF JEN SIMMONS](https://labs.jensimmons.com/)
+- [Spline](https://spline.design/)
+- [Css Portal](https://www.cssportal.com/)
+- [CSS.GLASS](https://css.glass/)
+- [HAIKEI](https://haikei.app/)
+- [Yt API](https://developers.google.com/youtube/v3)
 
 ####  [Property Generators](https://dev.to/lissy93/super-useful-css-resources-1ba3#property-generators)
 
