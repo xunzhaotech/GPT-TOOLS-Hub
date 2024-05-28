@@ -177,3 +177,52 @@
 - [dasos](https://siokas.github.io/dasos/)
 #### 开发社区
 - https://dev.to
+#### CSS框架：设计界的新宠
+
+| 框架名称                | 官网                                             | GitHub地址                                                   |
+| ----------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| Tailwind CSS            | [官网](https://tailwindcss.com/)                 | [GitHub](https://github.com/tailwindlabs/tailwindcss)        |
+| Bulma                   | [官网](https://bulma.io/)                        | [GitHub](https://github.com/jgthms/bulma)                    |
+| Bootstrap               | [官网](https://getbootstrap.com/)                | [GitHub](https://github.com/twbs/bootstrap)                  |
+| Foundation              | [官网](https://foundation.zurb.com/)             | [GitHub](https://github.com/foundation/foundation-sites)     |
+| Materialize             | [官网](https://materializecss.com/)              | [GitHub](https://github.com/Dogfalo/materialize)             |
+| UIkit                   | [官网](https://getuikit.com/)                    | [GitHub](https://github.com/uikit/uikit)                     |
+| Chakra UI               | [官网](https://chakra-ui.com/)                   | [GitHub](https://github.com/chakra-ui/chakra-ui)             |
+| NES.css                 | [官网](https://nostalgic-css.github.io/NES.css/) | [GitHub](https://github.com/nostalgic-css/NES.css)           |
+| Picocss                 | [官网](https://picocss.com/)                     | [GitHub](https://github.com/picocss/pico)                    |
+| Blaze UI                | [官网](https://www.blazeui.com/)                 | [GitHub](https://github.com/BlazeUI)                         |
+| Vanilla Framework       | [官网](https://vanillaframework.io/)             | [GitHub](https://github.com/vanilla-framework/vanilla-framework) |
+| Cirrus                  | [官网](https://cirrus-ui.com/)                   | [GitHub](https://github.com/CirrusMixer/cirrus)              |
+| PatternFly              | [官网](https://www.patternfly.org/)              | [GitHub](https://github.com/patternfly/patternfly)           |
+| Carbon Components       | [官网](https://www.carbondesignsystem.com/)      | [GitHub](https://github.com/IBM/carbon-components)           |
+| Open Props              | [官网](https://open-props.style/)                | [GitHub](https://github.com/systems-craftsman/open-props)    |
+| Tachyons                | [官网](https://tachyons.io/)                     | [GitHub](https://github.com/tachyons-css/tachyons)           |
+| Material Components Web | [官网](https://material.io/develop/web/)         | [GitHub](https://github.com/material-components/material-components-web) |
+| Beer CSS                | [官网](https://beercss.com/)                     | [GitHub](https://github.com/Mexican/beercss)                 |
+| HiQ                     | [官网](https://hiqdev.com/hiq)                   | [GitHub](https://github.com/hiq-solutions/hiq)               |
+| Stacks                  | [官网](https://stackoverflow.com/stacks)         | [GitHub](https://github.com/stackexchange/stacks)            |
+
+#### JavaScript框架：开发者的利器
+
+| 框架名称   | 官网                                | GitHub地址                                              |
+| ---------- | ----------------------------------- | ------------------------------------------------------- |
+| React      | [官网](https://reactjs.org/)        | [GitHub](https://github.com/facebook/react)             |
+| Vue.js     | [官网](https://vuejs.org/)          | [GitHub](https://github.com/vuejs/vue)                  |
+| Angular    | [官网](https://angular.io/)         | [GitHub](https://github.com/angular/angular)            |
+| Svelte     | [官网](https://svelte.dev/)         | [GitHub](https://github.com/sveltejs/svelte)            |
+| Next.js    | [官网](https://nextjs.org/)         | [GitHub](https://github.com/vercel/next.js)             |
+| Nuxt.js    | [官网](https://nuxtjs.org/)         | [GitHub](https://github.com/nuxt/nuxt.js)               |
+| Gatsby     | [官网](https://www.gatsbyjs.com/)   | [GitHub](https://github.com/gatsbyjs/gatsby)            |
+| Meteor     | [官网](https://www.meteor.com/)     | [GitHub](https://github.com/meteor/meteor)              |
+| Ember.js   | [官网](https://emberjs.com/)        | [GitHub](https://github.com/emberjs/ember.js)           |
+| Preact     | [官网](https://preactjs.com/)       | [GitHub](https://github.com/preactjs/preact)            |
+| Alpine.js  | [官网](https://alpinejs.dev/)       | [GitHub](https://github.com/alpinejs/alpine)            |
+| Lit        | [官网](https://lit.dev/)            | [GitHub](https://github.com/lit/lit)                    |
+| Redux      | [官网](https://redux.js.org/)       | [GitHub](https://github.com/reduxjs/redux)              |
+| D3.js      | [官网](https://d3js.org/)           | [GitHub](https://github.com/d3/d3)                      |
+| Three.js   | [官网](https://threejs.org/)        | [GitHub](https://github.com/mrdoob/three.js)            |
+| Node.js    | [官网](https://nodejs.org/)         | [GitHub](https://github.com/nodejs/node)                |
+| Express.js | [官网](https://expressjs.com/)      | [GitHub](https://github.com/expressjs/express)          |
+| Socket.IO  | [官网](https://socket.io/)          | [GitHub](https://github.com/socketio/socket.io)         |
+| Electron   | [官网](https://www.electronjs.org/) | [GitHub](https://github.com/electron/electron)          |
+| Ionic      | [官网](https://ionicframework.com/) | [GitHub](https://github.com/ionic-team/ionic-framework) |
