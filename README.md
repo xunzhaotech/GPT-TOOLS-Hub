@@ -336,7 +336,7 @@
 | HiQ                     | [官网](https://hiqdev.com/hiq)                   | [GitHub](https://github.com/hiq-solutions/hiq)               |
 | Stacks                  | [官网](https://stackoverflow.com/stacks)         | [GitHub](https://github.com/stackexchange/stacks)            |
 
-#### JavaScript框架：开发者的利器
+#### JavaScript框架
 
 | 框架名称   | 官网                                | GitHub地址                                              |
 | ---------- | ----------------------------------- | ------------------------------------------------------- |
